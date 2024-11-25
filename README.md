@@ -1,4 +1,4 @@
-**Job Search Simulator**
+# Job Search Simulator
 
 I am only modeling the process of applying to jobs through the LinkedIn jobs section. 
 
