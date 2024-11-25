@@ -1,3 +1,5 @@
+**Job Search Simulator**
+
 I am only modeling the process of applying through the LinkedIn jobs section.
 
 The flowchart attached, represents a daily snapshot of the process that I’m trying to simulate.
