@@ -1,6 +1,6 @@
 # Job Search Simulator
 
-I am only modeling the process of applying to jobs through the LinkedIn jobs section. 
+Modeling the process of applying to jobs through the LinkedIn jobs section. 
 
 ***MOTIVATION***
 
