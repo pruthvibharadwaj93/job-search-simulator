@@ -14,7 +14,8 @@ The model's aim is to understand the job search process in a more systematic man
 
 I am assuming the different steps of the process (like no.of applications, application success rate etc) to be random variables (green blocks)
 Each of the random processes will be modeled using a prior-posterior distibution pair whose parameters will be determined based on my experience. 
-There will be an option to change these parameters so that it can generalise to someone else's experience.
+There will be an option to change these parameters so that it can generalise to someone else's experience. 
+The overall structure of model is akin to a probabilistic graphical model.
 
 A daily snapshot of the simulator design is displayed below
 
