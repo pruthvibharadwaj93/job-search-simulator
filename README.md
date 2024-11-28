@@ -4,7 +4,7 @@ Modeling the process of applying to jobs through the LinkedIn jobs section.
 
 ***MOTIVATION***
 
-The model's aim is to understand the job search process in a more systematic manner and to enable answering questions like
+The model's aim is to understand the job search process in a more systematic manner, estimate the timeline required to get a job offer and to enable answering questions like
 
 1. How long will it take for one to get a job offer when different strategies are adopted?
 2. What is the uncertainty involved in the estimated timeline?
